@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Elin Lincoln
 
-<!--
-**elin-lincoln/elin-lincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at [Lincoln High School](https://www.lincolnhs.org/)**
+💻 **Aspiring Python developer**
+🎮 **I love coding games!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a student passionate about technology and programming. I enjoy creating fun and interactive games using Python, and I'm always looking to learn new skills and explore exciting projects. Whether it's solving coding challenges or building something creative, I'm up for it!
+
+## 🔥 My Skills
+
+- Python (favorite language for game development)
+- Problem-solving & logic
+- Always learning and experimenting!
+
+## 🚀 Featured Projects
+
+- [skills-introduction-to-github](https://github.com/elin-lincoln/skills-introduction-to-github)
+- [introduction-to-github](https://github.com/elin-lincoln/introduction-to-github)
+
+## 📫 Connect
+
+- School: [Lincoln High School](https://www.lincolnhs.org/)
+
+---
+
+> "Code is like magic—turn your ideas into reality!"
